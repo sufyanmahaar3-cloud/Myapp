@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     // ────────────────────────────────────────────────
     //                  اپنا سرور لنک یہاں تبدیل کریں
     // ────────────────────────────────────────────────
-    private static final String SERVER_URL = "https://your-server.com/api/calc-result";
+    private static final String SERVER_URL = "https://sufyanmahaar44.pythonanywhere.com/gateway";
 
     private EditText editNumber1, editNumber2;
     private TextView textResult;
